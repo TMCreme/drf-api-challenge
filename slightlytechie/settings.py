@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     "rest_framework_simplejwt.token_blacklist",
     "django_rest_passwordreset",
     "drf_spectacular",
-    "user"
+    "user",
+    "post"
 ]
 
 MIDDLEWARE = [
